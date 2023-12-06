@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Peaceful Pause</string>
+    <string name="default_duration">00:00</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="breath_in">Breath In</string>
+    <string name="breath_out">Breath Out</string>
+    <string name="select_time_and_start">Select duration and start</string>
+</resources>
